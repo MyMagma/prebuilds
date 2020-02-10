@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := Seafile
+LOCAL_MODULE := com.seafile.seadroid2_v100
 LOCAL_SRC_FILES := com.seafile.seadroid2_v100.apk
 LOCAL_DEX_PREOPT := false
 LOCAL_MODULE_CLASS := APPS
